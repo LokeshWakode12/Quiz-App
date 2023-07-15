@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+
+.container{
+    margin-top:4%;
+}
+
+.banbtn{
+    float: right;
+    position: relative;
+    margin: -39px -154px;
+}
+
+.back{
+    float:right;
+    margin-right: -31px;
+}
